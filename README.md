@@ -8,7 +8,7 @@ Double strand breaks (DSBs) in mammalian cells are the most deleterious DNA lesi
 Repair of a Cas9-induced cut in human cells results in introduction of non-random mutations at the targeted site. Variation among the mutational signatures at different target sites can be due to many reasons. However, studying the mutational signatures and their variations could results a better understanding of the repair pathways, kinetics of the cleavage and possible interactions between the DNA lesions (as substrate) and the DNA repair pathways. 
 Rational Indel Meta-Analysis (RIMA) is a tool that has been developed in the course of our study and would allow biologists to analyse their data without prior Bioinformatics knowledge. A general workflow for studying the mutation signatures is provided below (Figure 1):
 
-![Output screenshot](https://github.com/Ghahfarokhi/RIMA/Figures/Fig1.JPG)
+![Output screenshot](https://github.com/Ghahfarokhi/RIMA/blob/master/Figures/Fig1.jpg)
 
 # Visualizing Cas9 induced mutation patterns.
 Deep sequencing of CRISPR targeted loci provides a robust assay to quantify the Cas9 cutting efficiency and study the induced mutation patterns. This code visualizes a variant table resulted from mutations detected in deep sequencing data.
